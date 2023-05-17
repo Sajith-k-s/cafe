@@ -1,0 +1,39 @@
+<section id="Home">
+    <nav>
+        <div class="logo">
+          <a routerLink="/hotel/admin"> <img src="../assets/images/logo.png"> </a>
+        </div>
+
+        <ul>
+            <li><a href="#Home">Home</a></li>
+            <li><a href="#About">About</a></li>
+            <li><a href="#Menu">Menu</a></li>
+            <li><a href="#Gallery">Gallery</a></li>
+            <li><a href="#Order">Order</a></li>
+        </ul>
+
+    </nav>
+
+    <div class="about_text">
+        <h1><span>Update</span>item</h1>
+</div>
+    <div class="cc">
+        <input [(ngModel)]="contact.type" name="contacttype" class="ss" type="text" placeholder="Type"> <br> <br>
+        <input [(ngModel)]="contact.about" name="contactabout" class="ss" type="text" placeholder="About"> <br> <br>
+        <input [(ngModel)]="contact.rate" name="contactrate" class="ss" type="text" placeholder="Rate"> <br> <br>
+        <input [(ngModel)]="contact.photo" name="contactphoto" name="photo" class="ss" type="text" placeholder="Photo url"> <br> <br>
+        <input [(ngModel)]="contact.origin" name="contactorigin" name="origin" class="ss" type="text" placeholder="origin"> <br> <br> <br> <br>
+
+       <input (click)=" updateContact()" class="about_btn1" type="submit" value="update">
+      <a routerLink="/"> <input class="about_btn2" type="submit" value="Close"> </a>
+    </div>
+    <div class="about" id="About">
+        <div class="about_main">
+
+            <div class="image">
+             <img src="../assets/images/Food-Plate.png">
+            </div>
+
+
+            
+

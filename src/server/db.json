@@ -1,0 +1,36 @@
+{
+  "Hotels": [
+    {
+      "type": "Burger",
+      "about": " Hamburger, a sandwich consisting of one or more cooked beef patties, placed inside a sliced bread roll or bun roll",
+      "rate": "$20.00",
+      "photo": "../assets/images/buger.jpg",
+      "origin": "US",
+      "id": "1"
+    },
+    {
+      "type": "Hot Dog",
+      "about": "A hot dog is a food consisting of a grilled or steamed sausage served in the slit of a partially sliced bun.",
+      "rate": "$20.00",
+      "photo": "../assets/images/Hot_dog.jpg",
+      "origin": "INDIA",
+      "id": "2"
+    },
+    {
+      "type": "Biriyani",
+      "about": "It is made with Indian spices, vegetables, rice, and usually some type of meat (chicken, beef, goat, prawn, and fish), ",
+      "rate": "$40.00",
+      "photo": "../assets/images/biryani.webp",
+      "origin": "US",
+      "id": "3"
+    },
+    {
+      "type": "Ice Cream",
+      "about": "Ice cream is a frozen dessert, typically made from milk or cream and flavoured with a sweetener",
+      "rate": "$20.00",
+      "photo": "../assets/images/ice_cream.jpg",
+      "origin": "US",
+      "id": "4"
+    }
+  ]
+}
