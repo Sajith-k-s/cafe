@@ -25,12 +25,12 @@
       "id": "3"
     },
     {
-      "type": "Ice Cream",
-      "about": "Ice cream is a frozen dessert, typically made from milk or cream and flavoured with a sweetener",
-      "rate": "$20.00",
+      "type": "Ice cream",
+      "about": "Ice cream is a frozen dessert typically made from milk or cream that has been flavoured with a sweetener, either sugar ",
+      "rate": "$22.00",
       "photo": "../assets/images/ice_cream.jpg",
-      "origin": "US",
-      "id": "4"
+      "origin": "INDIA",
+      "id": "weoVYQW"
     }
   ]
 }
